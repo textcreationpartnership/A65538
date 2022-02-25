@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An earnest and compassionate suit for forbearance to the late learned writers of some controversies at present / by a melancholly stander-by.</title>
+            <author>Wettenhall, Edward, 1636-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65538</idno>
+            <idno type="STC">Wing W1494</idno>
+            <idno type="STC">ESTC R14825</idno>
+            <idno type="EEBO-CITATION">12336511</idno>
+            <idno type="OCLC">ocm 12336511</idno>
+            <idno type="VID">59805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65538)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59805)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 929:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An earnest and compassionate suit for forbearance to the late learned writers of some controversies at present / by a melancholly stander-by.</title>
+                  <author>Wettenhall, Edward, 1636-1713.</author>
+               </titleStmt>
+               <extent>[2], 17 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nath. Ranew ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bristol Public library, Bristol, England.</note>
+                  <note>Attributed to Edward Wettenhall. cf. NUC pre-1956.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59805:1"/>
+            <pb facs="tcp:59805:1" rendition="simple:additions"/>
+            <p>AN Earneſt and Compaſſionate <hi>Suit for Forbearance:</hi> TO THE LEARNED WRITERS OF SOME Controverſies at preſent.</p>
+            <p>By a Melancholly Stander-by</p>
+            <q>
+               <p>—Knowing that they do gender Strifes,</p> 
+               <bibl>2 Tim. II. 23.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nath. Ranew</hi> at the <hi>Kiug's Arms</hi> in St. <hi>Paul</hi>'s Church-yard. MDCXCI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:59805:2"/>
+            <pb n="1" facs="tcp:59805:2"/>
+            <head>An Earneſt and Compaſſionate Suit for Forbearance, &amp;c.</head>
+            <p>THERE is not a greater Blemiſh to the <hi>Reformation</hi> than the <hi>Open Diſſenſions</hi> of its <hi>Profeſſors;</hi> nor amongſt Men that are <hi>Se<g ref="char:EOLhyphen"/>rious in Religion, a frequenter,</hi> or perhaps a <hi>more ſcanda<g ref="char:EOLhyphen"/>lous Sin.</hi>
+            </p>
+            <p>The <hi>Miſchief</hi> hereby to <hi>Religion</hi> in Common, as well as in Special to <hi>our Church,</hi> is ſo <hi>notorious,</hi> ſo much complained of by all ſorts, and lamen<g ref="char:EOLhyphen"/>ted by the true Mourners in <hi>Sion,</hi> that it need not here be repreſented, but ſhall be taken for confeſt.</p>
+            <p>Now, nothing certainly has <hi>begot more Diſſenſi<g ref="char:EOLhyphen"/>ons</hi> than the <hi>urging too ſtrict</hi> an Union: Were <hi>Chri<g ref="char:EOLhyphen"/>ſtianity</hi> left in that <hi>Latitude</hi> and <hi>Simplicity,</hi> wherein it was <hi>delivered by Our Lord</hi> and his Apoſtles (and it is hard to aſſign ſufficient Reaſons why it ſhould not be ſo left) our <hi>Controverſies</hi> would be reduced to
+<pb n="2" facs="tcp:59805:3"/> a very <hi>ſmall Compaſs,</hi> if not totally ceaſe.</p>
+            <p>He who conſiders the Summ of <hi>Chriſtian Do<g ref="char:EOLhyphen"/>ctrin,</hi> as it <hi>now ordinarily</hi> ſtands in the Church, and compares it with the <hi>Faith once delivered to the Saints,</hi> will ſcarcely forbear cenſuring the <hi>School-Doctors</hi> to have been <hi>worſe Enemies</hi> to Chriſtiani<g ref="char:EOLhyphen"/>ty, than either the <hi>Heathen Philoſophers</hi> or <hi>perſecu<g ref="char:EOLhyphen"/>ting Emperors.</hi> The Evil which thoſe unlucky Wits have introduc'd, has been received into the Bowels, and affects the very Vitals of our Chri<g ref="char:EOLhyphen"/>ſtianity; inſomuch, that it is likely to ſtick not only cloſer, but longer to the Church than any other Darts that have wounded it. And 'tis ſad to think, that that very Branch of the Church, from whence, above any other, Healing might be expected, is now tearing the Wound wider.</p>
+            <p>The <hi>Firſt Reformers</hi> frequently and paſſionately complain of this Plague, and earneſtly <hi>endeavou<g ref="char:EOLhyphen"/>red,</hi> as well as <hi>deſired, a Purer and more Scriptural ſort of Divinity.</hi> They made great progreſs there<g ref="char:EOLhyphen"/>in. The forreign part of the Reformation, tho' they retained ſundry <hi>Scholastick Cramping Terms</hi> in their <hi>Inſtitutions</hi> and <hi>common Places,</hi> or Syſtems, yet <hi>baniſh'd</hi> them out of their <hi>Publick Prayers:</hi> And it were to be wiſhed the Church of <hi>En<g ref="char:EOLhyphen"/>gland</hi> had uſed the <hi>ſame Temper.</hi> Certainly we
+<pb n="3" facs="tcp:59805:3"/> may worſhip God right well, yea, moſt accep<g ref="char:EOLhyphen"/>tably, in Terms of his own ſtamp or coinage.</p>
+            <p>But, pleading for Alterations in our Liturgy, is not the Matter I concern my ſelf in at pre<g ref="char:EOLhyphen"/>ſent: The ſumm of what I now urge and would perſwade, is, That <hi>Our Doctors</hi> would ſo far <hi>hold their Hands,</hi> that the People may be able to uſe with <hi>due Reverence</hi> ſuch Paſſages in our <hi>Liturgy,</hi> wherein the ſcholaſtical terms hinted at do occurr: which I do avow, if ſome men pro<g ref="char:EOLhyphen"/>ceed, will ſoon be rendred Ridiculous, even a<g ref="char:EOLhyphen"/>mongſt the Common People, who are neither ſo blind, nor haply ſo ductil as in former days. Many a Contradiction (yea, ſcurvy biting Re<g ref="char:EOLhyphen"/>proaches ſometimes) do wiſe men receive, which yet they diſſemble, or ſeem to take no notice of; and by this means the <hi>Jeſt,</hi> as we ſay, <hi>is ſpoi<g ref="char:EOLhyphen"/>led; Convitia ſpreta exoleſcunt.</hi> I am well aſſured ſome late Pamphlets had dyed away, or been now in few mens Hands, had not divers Perſons of great Names, and deſervedly of no leſs eſteem in the Church, taken on themſelves the labour to confute them; which in the Judgment of ſome it is to be wiſh'd they had done without running into thoſe very Abſurdities, to which the Adver<g ref="char:EOLhyphen"/>ſary would reduce them. It ſeems to me but
+<pb n="4" facs="tcp:59805:4"/> an <hi>awkward</hi> though <hi>ordinary Art,</hi> us'd by many who now-adays deeply engage in Controverſies, that when they are pinch'd with Difficulties, they <hi>advance Solutions</hi> and <hi>Poſitions,</hi> the neceſſary <hi>Conſequents</hi> of which they will, as in the ſame Breath, <hi>deny</hi> (I am loth to aſſign freſh and par<g ref="char:EOLhyphen"/>ticular Inſtances.) But how Honourable this is before Men of Reaſon, or what it advantageth any Cauſe before Indifferent Judges, I leave to conſideration. It can certainly be no Pleaſure to a Man, to find himſelf entangled in the moſt curious Net-work of his own knitting; how<g ref="char:EOLhyphen"/>ever admirable the Make thereof once ſeemed to himſelf or his too-eaſie Friends.</p>
+            <p>The <hi>Controverſie</hi> now of late <hi>revived,</hi> and ſo hotly agitated at preſent, has been above Thir<g ref="char:EOLhyphen"/>teen Hundred Years ago <hi>determined</hi> by two Gene<g ref="char:EOLhyphen"/>ral Councils, (the <hi>Nicene</hi> and firſt <hi>Conſtantinopoli<g ref="char:EOLhyphen"/>tan)</hi> both which are highly owned, and have been ever adhered to by this our Church: The <hi>Creed</hi> made up betwixt them, ſtands in our <hi>Liturgy;</hi> and their <hi>Determinations</hi> have been <hi>ratified</hi> by <hi>ſuc<g ref="char:EOLhyphen"/>ceeding General Councils.</hi> Why cannot we let the Matter ſtand upon this Bottom of <hi>Authority?</hi> Thoſe who are vers'd in the Hiſtory of that Coun<g ref="char:EOLhyphen"/>cil, may be pleas'd to remember, <hi>what</hi> were
+<pb n="5" facs="tcp:59805:4"/> the Arguments urged, and, that it was Authority chiefly carried the Point. 'Tis true indeed, there are more hard Terms introduced into the Church-Doctrin, even ſince that Council, which Uſe has now made old: But, <hi>let us stop ſomewhere;</hi> Why ſhould we be ſtill <hi>moving</hi> the <hi>Ancient Bounds?</hi>
+            </p>
+            <p>To be together plain and ſuccinct; Give me Leave to ſay, Of all the Controverſies we can touch upon at preſent, this of the <hi>Trinity</hi> is the moſt <hi>
+                  <g ref="char:V">Ʋ</g>nreaſonable,</hi> the moſt <hi>Dangerous,</hi> and ſo the moſt <hi>
+                  <g ref="char:V">Ʋ</g>nſeaſonable.</hi>
+            </p>
+            <p>It is <hi>(1st.)</hi> the moſt unreaſonable Controver<g ref="char:EOLhyphen"/>ſie in the World, and that on ſeveral accounts.</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe it is on all hands confeſt, the <hi>Deity</hi> is <hi>infinite, unſearchable, incomprehenſible;</hi> and yet every one, who pretends to write plainer than another on this Controverſie, profeſſes to make all comprehenſible and <hi>eaſie.</hi> A man would think it a ſmall Favour to requeſt of Perſons of Learning, that they would be conſiſtent with, and not contradict themſelves.</p>
+            <p>Again; This Matter has been <hi>ſufficiently deter<g ref="char:EOLhyphen"/>mined,</hi> and by <hi>due Authority</hi> (if any Eccleſiaſtical Authority can be ſuch) is <hi>ſettled</hi> already. The
+<pb n="6" facs="tcp:59805:5"/> Councils of <hi>Nice</hi> and <hi>Conſtantinople,</hi> as before ſaid, and <hi>many other Councils</hi> ſince confirming the ſame, have done what Authority can do in it. And when we have moved every Stone, <hi>Authority muſt define it.</hi> Our Church-Articles inſiſt in the ſame Track; and we profeſs our ſelves, at leaſt for Peace-ſake, bound thereby.</p>
+            <p>Moreover, the <hi>preſent Iſſue ſhews,</hi> that in this World it <hi>never will be better underſtood:</hi> What Stuff has the <hi>Maſter of the Sentences,</hi> in his Firſt Book, and upon him all the Scholaſtick Wits, with their too<g ref="char:EOLhyphen"/>much Subtilties, and too-nice Enquiries made of it? And now afreſh, ſome by endeavouring to explicate more intelligibly the Quiddity (as I may ſo ſpeak) of each perſon by himſelf, and the Unity of all Three between themſelves (or to uſe a more Orthodox Phraſe, in one Eſſence) have, by ſuch Endeavours of ſpeaking more plain<g ref="char:EOLhyphen"/>ly, ſpoke only more adventurouſly and dange<g ref="char:EOLhyphen"/>rouſly. O that all who advance new Notions, would look forward to their Conſequences! I for<g ref="char:EOLhyphen"/>bear Particulars; but this Conſideration makes me ſay yet farther.</p>
+            <p>That as far as I can perceive, the more men <hi>draw</hi> the <hi>Diſputacious Saw,</hi> the <hi>more perplex'd</hi> and intricate this <hi>Queſtion</hi> is; at leaſt, that <hi>Truth</hi> which
+<pb n="7" facs="tcp:59805:5"/> is <hi>contended for,</hi> is <hi>farther off</hi> from being ſettled: For the <hi>New Attempts</hi> ſtill in the Iſſue not <hi>ſatisfy<g ref="char:EOLhyphen"/>ing</hi> the <hi>Old Difficulties,</hi> men look upon them to be what well they may, <hi>unſatisfiable</hi> or inſoluble, and impute not this to the <hi>Depth of the Myſtery,</hi> but to the <hi>Abſurdities of the Hypotheſis,</hi> which by the ſame means becomes ſtill more involv'd.</p>
+            <p>And <hi>Laſtly,</hi> Hereby <hi>our Church</hi> at preſent <hi>is,</hi> and the <hi>Common Christianity</hi> (it may be feared) <hi>will be</hi> more and more daily <hi>expoſed</hi> to <hi>Atheistical Men;</hi> for, this being but the Reſult of the for<g ref="char:EOLhyphen"/>mer particulars, and ſuch kind of men daily growing upon us, it cannot be believed, they can overlook the Advantage which is ſo often gi<g ref="char:EOLhyphen"/>ven them.</p>
+            <p>On theſe accounts, as well as others, this Controverſie (2<hi>dly.)</hi> is the moſt <hi>dangerous,</hi> as well as unreaſonable. The Danger hereof is eſpeci<g ref="char:EOLhyphen"/>ally hence <hi>evident,</hi> in that the <hi>Doctrin of the Bleſ<g ref="char:EOLhyphen"/>ſed Trinity,</hi> or of the Father, Son, and Holy Ghoſt, in whoſe Names we, and all Chriſtians are, or ought to have been baptized, is eſteem<g ref="char:EOLhyphen"/>ed as it is, if duly ſtated, one of the <hi>Fundamen<g ref="char:EOLhyphen"/>tals of Chriſtian Religion:</hi> Now, to litigate, touch<g ref="char:EOLhyphen"/>ing a Fundamental, is to turn it into a Contro<g ref="char:EOLhyphen"/>verſie;
+<pb n="8" facs="tcp:59805:6"/> that is, to unſettle, at leaſt endanger the unſettling, the whole Superſtructure.</p>
+            <p>And, to add no more Arguments, I ſay final<g ref="char:EOLhyphen"/>ly, That as indeed all Controverſies amongſt Pro<g ref="char:EOLhyphen"/>teſtants are moſt <hi>unſeaſonable,</hi> in <hi>ſuch a Juncture,</hi> wherein, under God, nothing but an <hi>Union of Coun<g ref="char:EOLhyphen"/>ſels,</hi> and joyning Hands and Hearts, can <hi>preſerve the Reformation,</hi> and ſcarce any thing more <hi>credit</hi> and <hi>juſtifie it,</hi> than an <hi>Union in Doctrinals,</hi> ſo above all other Controverſies, none can well be thought of <hi>worſe timed</hi> than this. What <hi>Reproach</hi> does it bring <hi>upon us,</hi> and what <hi>Sport</hi> does it create our <hi>Roman Adverſaries,</hi> that the Proteſtants of <hi>England</hi> are now diſputing the Doctrin of the Trinity: <hi>Their Diviſions</hi> (ſay they) <hi>can never ſtop:</hi> 'Tis no wonder they quarrel touching their King, they are now divided touching their GOD.</p>
+            <p>But it will be ſaid, What ſhall we do? Shall we tamely, by a baſe ſilence, give up the Point?</p>
+            <p>I anſwer, There is <hi>no danger</hi> of it. The <hi>Eſta<g ref="char:EOLhyphen"/>bliſh'd Church is in poſſeſſion</hi> of it, and Diſpute will only encreaſe the Diſturbance: The <hi>Adverſaries</hi> to the received Doctrin <hi>cannot Alter our Articles of Religion,</hi> but they can Diſpute everlaſtingly: They are men ſubtile, ſober, induſtrious; many of them very virtuous, and (as all muſt ſay) ſet<g ref="char:EOLhyphen"/>ting
+<pb n="9" facs="tcp:59805:6"/> aſide this Opinion, Devout, Pious, and Cha<g ref="char:EOLhyphen"/>ritable. They have a <hi>Zeal</hi> too, no <hi>leſs ardent</hi> than that of <hi>Church-men:</hi> And Preſſes, at home or a<g ref="char:EOLhyphen"/>broad, are and ever will be open; ſo that they will never be ſilent. An Anſwer will only breed a Reply, that a Rejoinder, that a Triplication, and ſo <hi>in infinitum.</hi> I ſay then, as before, <hi>neglect them,</hi> till a fit Time and Place, and then let that be done which ſhall be judged moſt Chriſtian, and moſt wholeſom.</p>
+            <p>And, to prepare a Way towards the laying to an <hi>Eternal Sleep</hi> this and ſuch-like Controverſies, I ingeniouſly profeſs my ſelf not to ſee, how it will ever be proved reaſonable to require from any men more than a <hi>Negative Belief</hi> of ſuch <hi>Myſte<g ref="char:EOLhyphen"/>ries,</hi> which they <hi>cannot underſtand.</hi> By a Negative Belief I mean <hi>ſomething more,</hi> perhaps, than a meer <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>ſuſpending a Man's Judgment, viz</hi> An <hi>A<g ref="char:EOLhyphen"/>greeing ſo far to a thing, as not to contradict it, or teach contrary to it.</hi> Now, though I may not <hi>pra<g ref="char:EOLhyphen"/>ctiſe</hi> what I am not ſatisfied is <hi>Lawful,</hi> yet I am not bound to <hi>contradict</hi> all things which I am <hi>not ſatisfied to be True;</hi> nay, not always thoſe things which I am perſwaded to be <hi>Falſe.</hi> Where therefore there is no Practice impoſed contrary to Mens Judgments, in ſuch Controverſies they may be
+<pb n="10" facs="tcp:59805:7"/> required quietly to <hi>acquieſce</hi> in the <hi>Publick Deter<g ref="char:EOLhyphen"/>mination,</hi> and even without ſuch injunction, I think, for Peace ſake, truly they ought: But to require Men to <hi>practiſe contrary</hi> to what they <hi>can underſtand to be True,</hi> I think, is <hi>iniquitous;</hi> or (which is much the ſame) <hi>uncharitable:</hi> It is not what we would have impoſed upon our ſelves. Now, after pro<g ref="char:EOLhyphen"/>poſal of the cleareſt Arguments we have, if Men ſhall ſtill avow they underſtand not ſuch things to be true, and aſſign conſiderable Reaſons for ſuch their Avowry, for my own part, I know not why we ſhould not believe them to be diſ<g ref="char:EOLhyphen"/>ſatisfied, when they conſtantly proteſt they are; eſpecially ſince they themſelves beſt know, and it is impoſſible for us to know the contrary, till we can know their Hearts. Let <hi>thoſe men</hi> therefore be <hi>Silent:</hi> and till we can ſatisfie them (which, for ought I can ſee, will not be till we can make things plain which are confeſſedly unſearchable, if not, as ſome pretend, unintelligible) let <hi>not us impoſe</hi> a Practice upon them contrary to their Senſe, eſpecially ſeeing we are <hi>agreed</hi> in the other parts of our <hi>Common Chriſtianity.</hi>
+            </p>
+            <p>But, for <hi>preſent <g ref="char:V">Ʋ</g>nion,</hi> how ſhall ſuch Injuncti<g ref="char:EOLhyphen"/>ons, which impoſe the Orthodox Doctrin (admit<g ref="char:EOLhyphen"/>ting them to be Laws) be ſuperſeded?</p>
+            <pb n="11" facs="tcp:59805:7"/>
+            <p>I do conceive very <hi>much,</hi> if not <hi>full enough,</hi> is done already by the <hi>late Act</hi> in favour of <hi>Diſſenters,</hi> and I acquieſce in the <hi>Authority</hi> that paſs'd it, as <hi>plenary</hi> enough to <hi>relax more,</hi> if neceſſary. I cannot be<g ref="char:EOLhyphen"/>lieve the Body of the Biſhops diſallowed, or did not with good liking conſent to that Act: Nor do I judge ſuch a <hi>Lower Houſe of Convocation,</hi> as by <hi>common Cuſtom</hi> of this Realm is made up of the Repreſentatives of all Beneficed Presbyters, is <hi>neceſſary</hi> to <hi>Authoriſing</hi> every <hi>Alteration</hi> which ſhall be made in our <hi>Liturgy</hi> or <hi>Canons.</hi> If this Courſe had been obſerv'd in K. <hi>Edward</hi> the Sixth's time, we had had no Reformed Liturgy, perhaps no Reformation at all. As long as there is a <hi>free Synod</hi> or Convention of <hi>all the Biſhops,</hi> the <hi>Suffrage of fewer Doctors</hi> (and <hi>thoſe</hi> truly Doctors) if the <hi>Government</hi> pleaſe, may amply ſuffice. And I ap<g ref="char:EOLhyphen"/>peal herein to the Practice of the Primitive and truly Catholick Church; of which, upon occaſion, I may ſay more.</p>
+            <p>In expectation of ſome <hi>happy Healing Temper,</hi> by <hi>ſome ſuch means</hi> as this, let us <hi>all be quiet,</hi> and <hi>make uſe of the Liberty given,</hi> preſſing each of us no more upon any, than is by Law required; nor being offended with any of our Brethren, for taking the Liberty which the preſent Relaxation gives;
+<pb n="12" facs="tcp:59805:8"/> and then I do not know but <hi>all Conſciencious Men</hi> may, in <hi>publick Congregations,</hi> one where or other, <hi>Pray, Hear, and Communicate to their own Hearts con<g ref="char:EOLhyphen"/>tent:</hi> But as for <hi>Atheiſtical</hi> and <hi>Irreligious men,</hi> that neglect, ſcoff at, or make it their buſineſs to deprave all Religion; or, as for <hi>ſuch whoſe Religion</hi> is moſtly either their <hi>Gain</hi> or <hi>Addictedneſs to their Party and Hypotheſis;</hi> touching both theſe, I ſay, we are <hi>not to trouble our ſelves,</hi> that they a<g ref="char:EOLhyphen"/>gree not with us; they will do ſo, when God ſhall change their Hearts. Charity and Sweet<g ref="char:EOLhyphen"/>neſs are a main part of the new Creature, and for promoting this in them, and in others, we are to uſe all our Prudence, and our utmoſt En<g ref="char:EOLhyphen"/>deavours, both by Prayer, Doctrin, and any other fit means we can think of: When they have <hi>new Hearts,</hi> they will be <hi>peaceable,</hi> or <hi>fit to be courted</hi> into Agreement, and not till then. To this Point therefore, namely, The Mending the Hearts and Lives of Men, let all our Sermons, all our Writings tend.</p>
+            <p>I cannot tell, but the <hi>moving farther theſe Con<g ref="char:EOLhyphen"/>troverſies</hi> may <hi>blaſt</hi> much of the <hi>Credit</hi> and <hi>Succeſs</hi> we have had in our late <hi>Controverſial Writings</hi> againſt the <hi>Papiſts.</hi>
+            </p>
+            <pb n="13" facs="tcp:59805:8"/>
+            <p>It may be ſaid, Our very Orthodox Men, of the greateſt Reputation, have ſome of them <hi>de<g ref="char:EOLhyphen"/>ceded</hi> from the <hi>Doctrin</hi> (in this behalf) <hi>formerly Taught</hi> even in our own <hi>Church.</hi>
+            </p>
+            <p>That which follows was once thought a fair, intelligible, ſolid, and judicious Explication of this Myſtery: <q>The Subſtance of GOD, with this Property to be of none, doth make the Perſon of the Father. The very ſelf-ſame Subſtance in number with this Property, to be of the Father, maketh the Perſon of the Son: The ſame Subſtance having added unto it the Property of proceeding from the other two, maketh the Perſon of the Holy Ghoſt: So that in every Perſon there is implyed both the Subſtance of GOD, which is One, and alſo that Property which cauſeth the ſame Per<g ref="char:EOLhyphen"/>ſon really and truly to differ from the other two.</q> The Author of theſe Words was, in his days, <hi>Maſter of the Temple,</hi> and by the beſt Judgments eſteemed, both then and now, to have ſpoken as much the Senſe of our Church, and in this Point of the Catholick Church, as any man.</p>
+            <pb n="14" facs="tcp:59805:9"/>
+            <p>But other Doctors of Ours, engaging at pre<g ref="char:EOLhyphen"/>ſent in this Controverſie; now explain the My<g ref="char:EOLhyphen"/>ſtery thus.</p>
+            <p>
+               <q>The Perſons are Three diſtinct and infinite Minds,—Three Intelligent Beings,—Three Holy</q> Spirits: For, according to this Learned Doctor, a Perſon [even <hi>in divinis]</hi> 
+               <q>is ſuch a Being as has Underſtanding, Will, and Power of Action.—Theſe three Infinite Minds are diſtinguiſhed juſt as three Finite created Minds are, by Self-conſciouſneſs.—Each Divine Perſon has a Self-conſciouſneſs of its own, and knows and feels it ſelf as diſtinct from the other Divine Perſons.—Yea,—The Fa<g ref="char:EOLhyphen"/>ther has his own Perſonal Wiſdom, and, by Internal Conſciouſneſs, all the Wiſdom of the Son, and of the Holy Ghoſt. The Son has his own Perſonal Wiſdom, and by the ſame Conſciouſneſs the Wiſdom of the Father and of the Holy Ghoſt. The Holy Ghoſt has his own Perſonal Wiſdom, and all the Wiſ<g ref="char:EOLhyphen"/>dom of the Father and Son.—The like Perſonal—Goodneſs and Power have they alſo.—For theſe are Perfections that may be in more than one.—But if either Fi<g ref="char:EOLhyphen"/>nite
+<pb n="15" facs="tcp:59805:9"/> or Infinite Spirits, Minds, or Perſons are mutually conſcious; that is, are internally and univerſally conſcious to one anothers Thoughts, Wills, Actions and Paſſions; this maketh them to be truly and properly Nu<g ref="char:EOLhyphen"/>merically one with each other, as much as each Spirit is one with himſelf,—they are hereby united to each other, as every man is to himſelf.—And thus is it that the Three Perſons are One God: They are one God, and in one another, by Perfect Mutual Con<g ref="char:EOLhyphen"/>ciouſneſs. I make here neither Comment</q> nor Inference upon this curious Diſcourſe.</p>
+            <p>Another Doctor of our Church is pleaſed more tenderly and ſafely to explain it, thus: <q>The Bleſſed Trinity is three Somewhats; and theſe three Somewhats we commonly call Perſons; but the true Notion and true Name of that Diſtinction is unknown to us.—The Word Perſons <hi>[in Divinis]</hi> is but meta<g ref="char:EOLhyphen"/>phorical, not ſignifying juſt the ſame, as when applied to Men.—We mean thereby no more but ſomewhat analogous to Perſons.</q> This later part has been ever held to by all Learned Trinitarians; and the Dr. ſpeaks like himſelf. Yet it troubles me, what Sport ſome
+<pb n="16" facs="tcp:59805:10"/> People make even with this Explication.</p>
+            <p>But in fine, thus ſtands what Improvements Doctors have made on this Great Chriſtian Dogme. Now, were it not much <hi>better</hi> theſe Doctors had <hi>let it alone?</hi> And that we let it alone, and bend our own, and endeavour to draw other mens Thoughts to the <hi>Practice of plain and unqueſtionable Devotion and Chriſtian Mo<g ref="char:EOLhyphen"/>rals:</hi> For, ſuppoſe any people hearing the word <hi>Perſon,</hi> when applied equally to Father, Son, and Holy Ghoſt, to be thus <hi>improper,</hi> and that the word <hi>Somewhat</hi> is a <hi>properer</hi> and <hi>clearer</hi> (elſe certainly ſo great a Doctor would not have uſed it as an Explicatory) Term, Sup<g ref="char:EOLhyphen"/>poſe, I ſay, ſome <hi>Hearers</hi> or <hi>Readers</hi> ſhould ſubſtitute <hi>Somewhats</hi> in their Prayers, inſtead of <hi>Perſons,</hi> and ſay, O Holy, Bleſſed, and Glorious Trinity, <hi>Three Somewhats</hi> and one God, have Mercy on us, <hi>&amp;c.</hi> Or, To Father, Son, and Holy Ghoſt, <hi>Three Somewhats</hi> and one God, be all Glory, <hi>&amp;c.</hi> What an excellent Improve<g ref="char:EOLhyphen"/>ment of Devotion muſt there be hereby? And though we do not verbally thus change the Terms, yet having heard or read them thus explicated, ſuch Explications, while we uſe thoſe Forms, will be apt to incurr into our Thoughts whether we will or no.</p>
+            <pb n="17" facs="tcp:59805:10"/>
+            <p>So that to conclude, I muſt now deſire our Doctors as they are Friends to the Church, and would not expoſe Her Liturgy, that they would forbear theſe Controverſies, as being not only unprofitable, but corruptive of, and prejudicial or injurious to our common Devotion.</p>
+            <p>I could ſay much more on this Subject, and perhaps ſhall, if what I have here ſaid take not the effect I deſire. But I ſhould be very willing to hold my Hand, as I requeſt others to do.</p>
+            <p>I love Truth with my Soul. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>To take ſtreight Steps to the Truth,</hi> has been long my Vow, and is ſtill my Study: But, I love <hi>Peace</hi> alſo, and true <hi>Devotion:</hi> And we know, he that is the God of <hi>Truth,</hi> is in like manner the God of <hi>Peace,</hi> and to be Wor<g ref="char:EOLhyphen"/>ſhip'd with the <hi>Devotion of Love,</hi> and of a <hi>Sound Mind.</hi> God encreaſe this Devotion, and let us endeavour to ſecure and promote it.</p>
+            <p>I may err, I will not be turbulent or un<g ref="char:EOLhyphen"/>charitable; and to that purpoſe I will diſpute as little as I can. I cannot diſſemble, that I wiſh in this regard all men were of my mind.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
